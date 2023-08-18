@@ -1,8 +1,9 @@
-Here is the active deployment - https://hrshlmeht.github.io/WebML/
+
 Check out the live github page. (Requires a web-cam) 
 TensorFlow.js Boilerplate
 =================
 This very simple skeleton simply loads in TensorFlow.js and prints out the version once loaded to the DOM.
+I have hosted the same on github page - https://hrshlmeht.github.io/WebML/
 From these humble beginnings you can do some really great things. 
 Feel free to fork this and use it as a quick way to start coding with TensorFlow.js directly or following some other tutorial that needs TensorFlow.js to run.
 
